@@ -50,27 +50,8 @@ I actively contribute upstream to production C++, graphics, and cloud-native sys
 
 ---
 
-## 🛠️ Technical Competencies
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | **C++ (C++17/20)**, **CUDA**, **Python (NumPy, Cython)**, C, Bash, SQL |
-| **Systems & Architecture** | Memory Safety (RAII, Smart Pointers, Cache Locality), Multithreading (`std::thread`, atomics), SIMD, POSIX Systems |
-| **Graphics & Geometry** | Computational Geometry (Delaunay, Voronoi, Convex Hull), Spatial Indexing (R-Trees, Quadtrees, BVH), 3D Meshes, ACES Color Science |
-| **Build & Tooling** | CMake, CTest, Git, GDB / LLDB, Valgrind, Linux (Ubuntu/Debian), Docker, GitHub Actions CI |
-| **CS Fundamentals** | Algorithms & Data Structures, Operating Systems, Computer Architecture, DBMS, Graph Theory *(GATE CS Aspirant)* |
-
----
-
-## 🎯 Current Focus & Aspirations
-
-* **LFX Mentorship (Linux Foundation) & GSoC Candidate:** Actively targeting upcoming cycles in **ASWF**, **MapLibre**, and **OSGeo (GDAL / GEOS)**.
-* **Open to Opportunities:** Actively seeking **Junior Systems Software Engineer**, **C++ Developer**, or **GPU / Accelerated Computing** roles (Pune, Bangalore, or Remote).
-
----
 
 ## 📬 Connect With Me
 
 * **GitHub:** [@La1itchauhan](https://github.com/La1itchauhan)
 * **Email:** [chauhanlalitofficial@gmail.com](mailto:chauhanlalitofficial@gmail.com)
-* **Location:** Pune, Maharashtra, India
