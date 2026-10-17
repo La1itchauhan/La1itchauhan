@@ -12,7 +12,7 @@ struct Engineer {
         "High-Performance C++", 
         "Systems & Accelerated Computing (CUDA)", 
         "3D Graphics & Visual Computing (ASWF)", 
-        "Spatial Computing & Geoinformatics (ISRO)"
+        "Spatial Computing & Geoinformatics "
     };
 };
 ```
@@ -43,10 +43,6 @@ I actively contribute upstream to production C++, graphics, and cloud-native sys
 * **[`goharbor/harbor`](https://github.com/goharbor/harbor)**
   * **[PR #23646](https://github.com/goharbor/harbor/pull/23646)**: *Allow resizing of SBOM column in artifact table*  
   * **Tech:** CNCF Graduated project, UI/UX systems.
-
-### 🛰️ ISRO-IIRS Geoinformatics & Spatial Systems
-* **[`isro-iirs-gis-course-194`](https://github.com/La1itchauhan/isro-iirs-gis-course-194)**
-  * Automated audio ingestion, speech-to-text decoding, topological spatial modeling, and technical synthesis pipeline covering Geodesy, Map Projections, Network Routing Graphs, and Vector/Raster Data Models.
 
 ---
 
