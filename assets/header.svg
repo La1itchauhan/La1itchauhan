@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="60%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0B1120" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <!-- Canvas & Architectural Grid -->
+  <rect width="1200" height="290" rx="10" fill="url(#bg)" stroke="#1E293B" stroke-width="2"/>
+  <rect width="1200" height="290" rx="10" fill="url(#grid)"/>
+
+  <!-- Top Telemetry Bar -->
+  <rect x="0" y="0" width="1200" height="38" rx="10" fill="#060911" opacity="0.85"/>
+  <line x1="0" y1="38" x2="1200" y2="38" stroke="#1E293B" stroke-width="1"/>
+  <circle cx="24" cy="19" r="4.5" fill="#10B981"/>
+  <text x="38" y="23" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="1.2">
+    SYSARCH // BARE-METAL · KERNEL · COMPILERS · HIGH-THROUGHPUT C++ &amp; RUST
+  </text>
+  <text x="1176" y="23" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">
+    PUNE, IN · AVAILABLE FOR CONTRACTS &amp; SYSTEMS ROLES
+  </text>
+
+  <!-- Primary Identity -->
+  <text x="44" y="102" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-0.8">
+    Lalit Chauhan
+  </text>
+  <text x="325" y="100" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="500">
+    @La1itchauhan
+  </text>
+
+  <!-- Positioning Statement -->
+  <text x="44" y="138" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="400">
+    Systems Software Engineer specializing in hardware-software co-design, lock-sharded concurrency,
+  </text>
+  <text x="44" y="162" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="400">
+    LLVM/WebAssembly JIT lowering, and low-latency C++17/20 &amp; Rust execution runtimes.
+  </text>
+
+  <!-- Bottom 4 Metric Modules -->
+  <g transform="translate(44, 192)">
+    <rect x="0" y="0" width="262" height="68" rx="6" fill="#0B1120" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="16" y="24" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="0.8">UPSTREAM PRODUCTION</text>
+    <text x="16" y="49" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">ARM · NVIDIA · Google · Meta</text>
+
+    <rect x="282" y="0" width="262" height="68" rx="6" fill="#0B1120" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="298" y="24" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="0.8">SILICON &amp; KERNEL</text>
+    <text x="298" y="49" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">GICv3/v4 ESPI · PCIe BARs</text>
+
+    <rect x="564" y="0" width="262" height="68" rx="6" fill="#0B1120" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="580" y="24" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="0.8">CONCURRENT CACHE THROUGHPUT</text>
+    <text x="580" y="49" fill="#10B981" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">20.3 Mops/s (TSan/ASan Clean)</text>
+
+    <rect x="846" y="0" width="266" height="68" rx="6" fill="#0B1120" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="862" y="24" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="0.8">COMPILERS &amp; INFERENCE</text>
+    <text x="862" y="49" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">LLVM ORC JIT · WASM · llama.cpp</text>
+  </g>
+</svg>
