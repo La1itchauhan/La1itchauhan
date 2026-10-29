@@ -8,7 +8,7 @@
   <a href="mailto:chauhanlalitofficial@gmail.com"><code>chauhanlalitofficial@gmail.com</code></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/la1it-chauhan5/"><code>linkedin.com/in/la1it-chauhan5</code></a> &nbsp;·&nbsp;
   <a href="https://github.com/La1itchauhan?tab=repositories"><code>Systems Repositories</code></a> &nbsp;·&nbsp;
-  <code>Army Institute of Technology (AIT), Pune · PMSS Scholar</code>
+  <code></code>
 </div>
 
 ---
